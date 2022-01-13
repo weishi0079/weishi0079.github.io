@@ -14,7 +14,8 @@ author_profile: true
 Conference Papers
 ======
 * 2022
-  ### C29. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
-   * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
-   * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
-   * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan. 17-20, 2022. <br>
+  ### 10.4 A 3.7 mW 12.5 MHz 81dB-SNDR 4th-Order CTDSM with Single-OTA and 2nd-Order NS-SAR
+   * **Wei Shi**, Jiaxin Liu, Abhishek Mukherjee, Xiangxing Yang, Xiyuan Tang, Linxiao Shen, Wenda Zhao, Nan Sun
+   * IEEE International Solid-State Circuits Conference (ISSCC), Feb. 13-22, 2021. <br>
+
+<img src="../images/Figure_set_high_speed_fig7.tif" height="260" width="650">
