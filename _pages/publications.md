@@ -14,7 +14,7 @@ author_profile: true
 Conference Papers
 ======
 * 2021
-  ### 10.4 A 3.7 mW 12.5 MHz 81dB-SNDR 4th-Order CTDSM with Single-OTA and 2nd-Order NS-SAR
+  ### A 3.7 mW 12.5 MHz 81dB-SNDR 4th-Order CTDSM with Single-OTA and 2nd-Order NS-SAR
    * **Wei Shi**, Jiaxin Liu, Abhishek Mukherjee, Xiangxing Yang, Xiyuan Tang, Linxiao Shen, Wenda Zhao, Nan Sun
    * IEEE International Solid-State Circuits Conference (ISSCC), Feb. 13-22, 2021. <br>
      <img src="../images/Figure_set_high_speed_fig7.png" height="291" width="390">
@@ -32,11 +32,11 @@ Conference Papers
    * Mingjie Liu, Keren Zhu, Xiyuan Tang, Biying Xu, **Wei Shi**, Nan Sun, David Z Pan
    * ACM/IEEE Design Automation Conference (DAC), Jul. 20-24, 2020. <br>
 
-  ### 9.5 a 13.5 b-ENOB second-order noise-shaping SAR with PVT-robust closed-loop dynamic amplifier
+  ### A 13.5 b-ENOB second-order noise-shaping SAR with PVT-robust closed-loop dynamic amplifier
    * Xiyuan Tang, Xiangxing Yang, Wenda Zhao, Chen-Kai Hsu, Jiaxin Liu, Linxiao Shen, Abhishek Mukherjee, **Wei Shi**, David Z Pan, Nan Sun
    * IEEE International Solid-State Circuits Conference (ISSCC), Feb. 16-20, 2020. <br>
   
-  ### 3.4 A 0.01mm2 25µW 2MS/s 74dB-SNDR Continuous-Time Pipelined-SAR ADC with 120fF Input Capacitor
+  ### A 0.01mm2 25µW 2MS/s 74dB-SNDR Continuous-Time Pipelined-SAR ADC with 120fF Input Capacitor
    * Linxiao Shen, Yi Shen, Xiyuan Tang, Chen-Kai Hsu, **Wei Shi**, Shaolan Li, Wenda Zhao, Abhishek Mukherjee, Nan Sun
    * IEEE International Solid-State Circuits Conference (ISSCC), Feb. 17-21, 2019. <br>
 
