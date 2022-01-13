@@ -18,4 +18,4 @@ Conference Papers
    * **Wei Shi**, Jiaxin Liu, Abhishek Mukherjee, Xiangxing Yang, Xiyuan Tang, Linxiao Shen, Wenda Zhao, Nan Sun
    * IEEE International Solid-State Circuits Conference (ISSCC), Feb. 13-22, 2021. <br>
 
-<img src="../images/Figure_set_high_speed_fig7.png" height="260" width="650">
+<img src="../images/Figure_set_high_speed_fig7.png" height="485" width="650">
