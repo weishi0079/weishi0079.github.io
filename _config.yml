@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Shi"
 title_separator          : "-"
 name                     : &name "Wei Shi"
-description              : &description "Ph.D. candidate from University of Texas at Austin"
+description              : &description "Ph.D. candidate from The University of Texas at Austin"
 url                      : https://weishi0079.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weishi0079.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Shi"
+  name             : "Wei Shi 施为"
   avatar           : "bio_photo_ws.jpg"
   bio              : "Wei Shi is a Ph.D. candidate from the University of Texas at Austin"
   location         : "Austin, Texas"
