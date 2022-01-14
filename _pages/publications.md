@@ -42,18 +42,18 @@ Conference Papers
 
 Journal Papers
 ======
-  ### An Efficient Analog Circuit Sizing Method Based on Machine Learning Assisted Global Optimization
+### An Efficient Analog Circuit Sizing Method Based on Machine Learning Assisted Global Optimization
    * Xiyuan Tang, Xiangxing Yang, Jiaxin Liu, **Wei Shi**, David Z Pan, Nan Sun
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, May., 2021. <br>
 
-  ### A 13.5-ENOB, 107-μW noise-shaping SAR ADC with PVT-robust closed-loop dynamic amplifier
+### A 13.5-ENOB, 107-μW noise-shaping SAR ADC with PVT-robust closed-loop dynamic amplifier
    * Xiyuan Tang, Xiangxing Yang, Wenda Zhao, Chen-Kai Hsu, Jiaxin Liu, Linxiao Shen, Abhishek Mukherjee, **Wei Shi**, Shaolan Li, David Z Pan, Nan Sun
    * IEEE Journal of Solid-State Circuits, Sep., 2020. <br>
 
-  ### An energy-efficient comparator with dynamic floating inverter amplifier
+### An energy-efficient comparator with dynamic floating inverter amplifier
    * Xiyuan Tang, Linxiao Shen, Begum Kasap, Xiangxing Yang, **Wei Shi**, Abhishek Mukherjee, David Z Pan, Nan Sun
    * IEEE Journal of Solid-State Circuits, Jan., 2020. <br>
 
-  ### An energy-efficient comparator with dynamic floating inverter amplifier
+### An energy-efficient comparator with dynamic floating inverter amplifier
    * Linxiao Shen, Yi Shen, Zhelu Li, **Wei Shi**, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, Nan Sun
    * IEEE Journal of Solid-State Circuits, Aug., 2021. <br>
