@@ -14,7 +14,7 @@ author_profile: true
 Conference Papers
 ======
 * 2022
-  ### A 0.37mm$^2$ 250kHz-BW 95dB-SNDR CTDSM with Low-Cost 2nd-order Vector-Quantizer DEM
+  ### A 0.37mm2 250kHz-BW 95dB-SNDR CTDSM with Low-Cost 2nd-order Vector-Quantizer DEM
    * **Wei Shi**, Xing Wang, Xiyuan Tang, Abhishek Mukherjee, Raviteja Theertham, Shanthi Pavan, Lu Jie, Nan Sun
    * IEEE Custom Integrated Circuits Conference (CICC), April 24-27, 2022.
    * Accepted
