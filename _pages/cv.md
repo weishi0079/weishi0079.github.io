@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2018: Design Engineering Intern
-  * Cirrus Logic
+* Cirrus Logic
+  * Summer 2018: Design Engineering Intern
 
-* Fall 2021: Machine Learning Intern 
-  * Facebook
+* Meta
+  * Summer 2021: Machine Learning Intern
   
 Skills
 ======
@@ -33,21 +33,13 @@ Skills
 * CAD
   * Cadence Virtuoso
 
-Publications
+Awards and Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* SSCS Predoctoral Achievement Award, 2021
+* IEEE ISSCC Analog Devices Outstanding Student Designer Award, 2019
+* Texas Instruments Outstanding Student Designer Award, 2017
+* Wang Guosong Scholarship, 2017
+* UCLA Cross-disciplinary Scholar Fellowship, 2016
+* China National Scholarship, 2014-2015
+
  
