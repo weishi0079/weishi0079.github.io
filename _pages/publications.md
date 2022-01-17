@@ -65,6 +65,6 @@ Journal Papers
    * Xiyuan Tang, Linxiao Shen, Begum Kasap, Xiangxing Yang, **Wei Shi**, Abhishek Mukherjee, David Z Pan, Nan Sun
    * IEEE Journal of Solid-State Circuits, Jan., 2020. <br>
 
-### An energy-efficient comparator with dynamic floating inverter amplifier
+### A two-step ADC with a continuous-time SAR-based first stage
    * Linxiao Shen, Yi Shen, Zhelu Li, **Wei Shi**, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, Nan Sun
-   * IEEE Journal of Solid-State Circuits, Aug., 2021. <br>
+   * IEEE Journal of Solid-State Circuits, Aug., 2019. <br>
