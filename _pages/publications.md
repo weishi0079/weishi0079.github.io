@@ -54,7 +54,7 @@ Conference Papers
 Journal Papers
 ======
 ### An Efficient Analog Circuit Sizing Method Based on Machine Learning Assisted Global Optimization
-   * Xiyuan Tang, Xiangxing Yang, Jiaxin Liu, **Wei Shi**, David Z Pan, Nan Sun
+   * Ahmet Budak, Miguel Gandara, **Wei Shi**, David Pan, Nan Sun, Bo Liu
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, May., 2021. <br>
 
 ### A 13.5-ENOB, 107-μW noise-shaping SAR ADC with PVT-robust closed-loop dynamic amplifier
