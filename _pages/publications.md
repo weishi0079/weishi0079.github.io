@@ -17,7 +17,7 @@ Conference Papers
   ### A 0.37mm2 250kHz-BW 95dB-SNDR CTDSM with Low-Cost 2nd-order Vector-Quantizer DEM
    * **Wei Shi**\*, Xing Wang\*, Xiyuan Tang, Abhishek Mukherjee, Raviteja Theertham, Shanthi Pavan, Lu Jie, Nan Sun
    * IEEE Custom Integrated Circuits Conference (CICC), April 24-27, 2022.
-   * Accepted
+   <img src="../images/Figure_set_high_resolution.png" height="291" width="390">
 
   ### Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits
    * Keren Zhu, Hao Chen, Mingjie Liu, Xiyuan Tang, **Wei Shi**, Nan Sun, and David Z. Pan
