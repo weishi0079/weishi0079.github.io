@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* Meta
+  * Fall 2022 -- present: Research Scientist
 * Cirrus Logic
   * Summer 2018: Design Engineering Intern
 
