@@ -7,7 +7,17 @@ tags:
   - causal inference
   - reward modeling
   - alignment
+excerpt: "One subtle failure mode in RLHF starts before reinforcement learning even begins."
 ---
+
+<div class="notice" markdown="1">
+#### TL;DR
+
+- A reward model is trained to answer *what tends to appear in high-reward responses?* The policy then uses it to answer *what should I produce more of?* Those are different questions.
+- A feature can be strongly predictive purely through confounding: hidden context — freshness, importance, source quality — drives both the feature and the reward.
+- Conditioning on that context only helps if it actually explains the selection, and only where treated and untreated examples overlap. Reward models extrapolate past that boundary anyway, and RL actively pushes them there.
+- The fix is controlled counterfactual variation: hold the content fixed, vary the feature, and measure whether preference actually improves.
+</div>
 
 One subtle failure mode in RLHF starts before reinforcement learning even begins.
 

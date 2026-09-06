@@ -9,7 +9,17 @@ tags:
   - LLM agents
   - doubly robust learning
   - experimentation
+excerpt: "A common instinct in machine learning is: when prediction is hard, build a more powerful model."
 ---
+
+<div class="notice" markdown="1">
+#### TL;DR
+
+- On long-horizon problems — agentic tasks, long-term recommendation, ads supply — the outcome you can measure is dominated by variation you do not control, so predicting it accurately is both expensive and unnecessary.
+- The decision needs the *effect* of the intervention, τ(X), not the two absolute outcomes separately. The effect is often far more structured than either one.
+- A small randomized budget buys two things: a simpler prediction target, and a known assignment policy e(x) = p that lets doubly robust learning correct an imperfect outcome model.
+- The result is that lightweight models can do a job that appeared to need a much larger one — with the caveat that the correction trades bias for variance, so it wants scale.
+</div>
 
 A common instinct in machine learning is: when prediction is hard, build a more powerful model. More features. A larger network. A richer representation. A more sophisticated objective.
 
